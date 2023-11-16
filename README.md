@@ -1,2 +1,3 @@
 # aman-demo
-tgis is my git repo
+this is my git repo
+author aman 
