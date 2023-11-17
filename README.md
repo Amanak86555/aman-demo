@@ -1,3 +1,3 @@
 # aman-demo
 this is my git repo
-author aman 
+author aman kumar
